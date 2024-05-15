@@ -19,8 +19,8 @@ This is a React.js project that demonstrates CRUD (Create, Read, Update, Delete)
 https://github.com/ravi-143kiran/CRUD-Operations-React.js
 ```
 2.  Install dependencies:
+```
 cd react-crud-project
-
 npm install
 ```
 
