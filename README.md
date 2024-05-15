@@ -29,7 +29,7 @@ npm install
 npm start
 ```
 
-4.  Open your web browser and navigate to `http://localhost:3000` to view the application.
+4.  Open your web browser and navigate to `http://localhost:5000` to view the application.
 
 # **Register Page**
 ![Register](https://github.com/ravi-143kiran/CRUD-Operations-React.js/assets/119074585/b5fecf41-1bd5-4c01-8705-6b9ef91cef7d)
