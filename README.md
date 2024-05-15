@@ -16,8 +16,7 @@ This is a React.js project that demonstrates CRUD (Create, Read, Update, Delete)
 ## Installation
 1. Clone the repository:
 ```
- git clone https://github.com/yourusername/react-crud-project.git
-```
+https://github.com/ravi-143kiran/CRUD-Operations-React.js```
 2.  Install dependencies:
 ```
 cd react-crud-project
