@@ -35,7 +35,7 @@ npm start
 # **Register Page**
 ![Register](https://github.com/ravi-143kiran/CRUD-Operations-React.js/assets/119074585/b5fecf41-1bd5-4c01-8705-6b9ef91cef7d)
 
-# *Home Page**
+# **Home Page**
 ![Login](https://github.com/ravi-143kiran/CRUD-Operations-React.js/assets/119074585/1f809c94-affa-4e53-bd02-509cc886187a)
 
 ## Usage
